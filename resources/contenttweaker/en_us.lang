@@ -1,0 +1,47 @@
+item.contenttweaker.random_act_of_kindness.name=RAK
+item.contenttweaker.hgm_metal.name=Herobrain_gamer Metal
+item.contenttweaker.zmm_metal.name=Zackman Metal
+item.contenttweaker.gnm_metal.name=Gardonn Metal
+item.contenttweaker.sim_metal.name=Seonbwii Metal
+item.contenttweaker.ddm_metal.name=Divadestroyer Metal
+item.contenttweaker.kpm_metal.name=Kaiju_PooL Metal
+item.contenttweaker.argent_energy_cell.name=Argent Energy Cell
+item.contenttweaker.neutral_steel_1.name=Neutral Steel of the First Degree
+item.contenttweaker.neutral_steel_2.name=Neutral Steel of the Second Degree
+item.contenttweaker.neutral_steel_3.name=Neutral Steel of the Third Degree
+item.contenttweaker.neutral_steel_4.name=Neutral Steel of the Fourth Degree
+item.contenttweaker.neutral_steel_5.name=Neutral Steel of the Fifth Degree
+
+tile.contenttweaker.ogasexy_block.name=OgaSexy - Gabriel
+tile.contenttweaker.ogasexy_block1.name=OgaSexy - Zack
+tile.contenttweaker.ogasexy_block2.name=OgaSexy - Aidan
+tile.contenttweaker.ogasexy_block3.name=OgaSexy - William
+tile.contenttweaker.ogasexy_block4.name=OgaSexy - Niki
+tile.contenttweaker.ogasexy_block5.name=OgaSexy - Princess
+
+tile.contenttweaker.hgm_block.name=Herobrain_gamer Metal Block
+tile.contenttweaker.zmm_block.name=Zackman Metal Block
+tile.contenttweaker.gnm_block.name=Gardonn Metal Block
+tile.contenttweaker.sim_block.name=Seonbwii Metal Block
+tile.contenttweaker.ddm_block.name=Divadestroyer Metal Block
+tile.contenttweaker.kpm_block.name=Kaiju_PooL Metal Block
+
+cmm.extra.wiki=Wiki
+cmm.extra.changelog=Changelog
+cmm.extra.issues=Issues
+cmm.extra.translations=Translations
+cmm.extra.modlist=Mod List
+
+cmm.credit.herobraingamer=Herobrain_gamer's Twitter
+cmm.credit.zackman=Zackman's Instagram
+cmm.credit.kaijupool=Kaiju_PooL's Instagram
+cmm.credit.gardonn=Gardonn's Instagram
+cmm.credit.seonbwii=Seonbwii's Instagram
+cmm.credit.divadestroyer=Divadestroyer's Instagram
+cmm.credit.pixiilaremedia=Pixilare Media's Twitter
+
+cmm.all.back=Back
+
+cmm.main.credits=Credits
+cmm.main.extras=Extras
+cmm.main.officalserver=Offical Server
