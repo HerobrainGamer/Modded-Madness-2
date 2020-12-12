@@ -25,11 +25,3 @@ This pack contains about 400 mods ranging from Tech to Magic to Cosmetic to pure
 Herobrain_gamer's : [Twitter](https://twitter.com/Herobrain_gamer), [Patreon](https://www.patreon.com/HerobrainGamer)
 
 Zackman's : [Instagram](https://www.instagram.com/zackman1291/)
-
-Kaiju_PooL's : [Instagram](https://www.instagram.com/6sic6_arts/)
-
-Gardonn's : [Instagram](https://www.instagram.com/_gamergabriel_/)
-
-Seonbwii's : [Instagram](https://www.instagram.com/seonbwii/)
-
-Divadestroyer's [Instagram](https://www.instagram.com/divadestroyer/)
